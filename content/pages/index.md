@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to Nova Amortis
     subtitle: >-
-      Nova Amortis Mining is a Canadian gold exploration company with highly
+      Nova Amortis is a Canadian gold exploration company with highly
       prospective properties in Alaska and the Ontario Timmins Gold Camp.
     actions:
       - label: Try for free
