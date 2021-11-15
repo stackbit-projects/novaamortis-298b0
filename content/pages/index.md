@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Nova Amortis
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: >-
+      HighGold Mining is a Canadian gold exploration company with highly
+      prospective properties in Alaska and the Ontario Timmins Gold Camp.
     actions:
       - label: Try for free
         url: /pricing
