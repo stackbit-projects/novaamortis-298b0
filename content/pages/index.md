@@ -7,7 +7,7 @@ sections:
       Nova Amortis is an American gold exploration company with highly
       prospective properties in Alaska and the Ontario Timmins Gold Camp.
     actions:
-      - label: Try for free
+      - label: Learn More
         url: /pricing
         style: primary
     image: images/hero.svg
