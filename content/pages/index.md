@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to HighGold Mining
+    title: Welcome to Nova Amortis
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
